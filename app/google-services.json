@@ -8,6 +8,138 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:659286913984:android:bb6f5e72cb06b384",
+        "android_client_info": {
+          "package_name": "com.car.insurance.online.ca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659286913984-a23bjjluq8gp5svahvr2v756bd5nkqmh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.car.insurance.online.ca",
+            "certificate_hash": "67cbaf096c3a259295dd5553c568517d8a04f7de"
+          }
+        },
+        {
+          "client_id": "659286913984-q9obcvqirc89ir51a47190j7o56a9ro8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF3Th6qkkCScocLUxTb5c7fs_L0-ehKeg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659286913984-q9obcvqirc89ir51a47190j7o56a9ro8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659286913984:android:f73930c93c6c660d",
+        "android_client_info": {
+          "package_name": "com.car.insurance.online.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659286913984-8214u4p01p0r2v7j4ghgaoa23n8724je.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.car.insurance.online.fr",
+            "certificate_hash": "67cbaf096c3a259295dd5553c568517d8a04f7de"
+          }
+        },
+        {
+          "client_id": "659286913984-q9obcvqirc89ir51a47190j7o56a9ro8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF3Th6qkkCScocLUxTb5c7fs_L0-ehKeg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659286913984-q9obcvqirc89ir51a47190j7o56a9ro8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659286913984:android:e646a4d737437f2d",
+        "android_client_info": {
+          "package_name": "com.insurance.agent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659286913984-aa87ismsk4hoa9iucar9gh6l7l4osfcq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.insurance.agent",
+            "certificate_hash": "67cbaf096c3a259295dd5553c568517d8a04f7de"
+          }
+        },
+        {
+          "client_id": "659286913984-q9obcvqirc89ir51a47190j7o56a9ro8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF3Th6qkkCScocLUxTb5c7fs_L0-ehKeg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659286913984-q9obcvqirc89ir51a47190j7o56a9ro8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:659286913984:android:d2514a62ada2afca",
         "android_client_info": {
           "package_name": "id.kanal.am1"
@@ -19,6 +151,50 @@
           "client_type": 1,
           "android_info": {
             "package_name": "id.kanal.am1",
+            "certificate_hash": "67cbaf096c3a259295dd5553c568517d8a04f7de"
+          }
+        },
+        {
+          "client_id": "659286913984-q9obcvqirc89ir51a47190j7o56a9ro8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF3Th6qkkCScocLUxTb5c7fs_L0-ehKeg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659286913984-q9obcvqirc89ir51a47190j7o56a9ro8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659286913984:android:5c06fdb281c3d831",
+        "android_client_info": {
+          "package_name": "id.kanalitnuk.ok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659286913984-800cg6bpiqart5hknk0ru44gbl7mdqbl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.kanalitnuk.ok",
             "certificate_hash": "67cbaf096c3a259295dd5553c568517d8a04f7de"
           }
         },

@@ -1,8 +1,10 @@
 <resources>
     <string name="app_name">KanalitnuK Impress Premium</string>
-    <string name="APP_ID">ca-app-pub-1468953847768359~1493912867</string>
-    <string name="BANNER_ID_1">ca-app-pub-1468953847768359/2232279469</string>
-    <string name="BANNER_ID_2">ca-app-pub-1468953847768359/9580340344</string>
-    <string name="INTER_ID_2">ca-app-pub-1468953847768359/3753298596</string>
-    <string name="limit">150</string><string name="delay_ban">10</string><string name="delay_in">20</string>
+    <string name="APP_ID">ca-app-pub-1468953847768359~3039838954</string>
+    <string name="BANNER_ID_1">ca-app-pub-1468953847768359/1663371629</string>
+    <string name="BANNER_ID_2">ca-app-pub-1468953847768359/1663371629</string>
+    <string name="INTER_ID_2">ca-app-pub-1468953847768359/8925772213</string>
+    <string name="limit">150</string>
+    <string name="delay_ban">10</string>
+    <string name="delay_in">20</string>
 </resources>
